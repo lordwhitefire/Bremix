@@ -58,7 +58,7 @@ export default function Index() {
     </p>
     <div className="mb-4">
       <img
-        src="https://previews.dropbox.com/p/thumb/ACG_4pPZNjE4qN0lpix1QV08KX8FyUodOoPDv1N3o_40bPc4_LMDP3MiK9Vkfl9C7oeF3qxs_QzTYL6-QnWAxyf8UkRHn9Q26hPkThdeUUcebJ0lpeBUQEcq4h84jTeVeoV9LNHPGVbBm2YQTupyyoSVFfD3xnf3giXtTJTuM3J5fpx0l9x0xZ8vd4Dayc42HC_RcbmqsvLucRagOm27NlEurErEO_R3MxhyQFYko7Oq0-GaNJsusEuCfXfJHW-1SEEFULTK4SUkavl5MluhXZgP-rNyCi3lo5fpKyg_yQkhYytt6u0V1U3v54HiOawlXkuaBYdREMy6QRJG9pUVDxnO/p.jpeg"
+src="https://img.freepik.com/free-photo/view-ecstatic-football-fan-celebrating_23-2150860721.jpg>
         alt="Jumping Avatar"
         className="w-20 h-20 rounded-full mx-auto mb-2"
       />
