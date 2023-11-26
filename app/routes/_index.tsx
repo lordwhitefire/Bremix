@@ -57,12 +57,13 @@ export default function Index() {
       Embracing the Coding Odyssey: A Week of Triumphs and Transformations! 🚀💻
     </p>
     <div className="mb-4">
-      <img
-src="https://img.freepik.com/free-photo/view-ecstatic-football-fan-celebrating_23-2150860721.jpg>
-        alt="Jumping Avatar"
-        className="w-20 h-20 rounded-full mx-auto mb-2"
-      />
-    </div>
+  <img
+    src="https://img.freepik.com/free-photo/view-ecstatic-football-fan-celebrating_23-2150860721.jpg"
+    alt="Jumping Avatar"
+    className="w-20 h-20 rounded-full mx-auto mb-2"
+  />
+</div>
+
   </div>
   
 {[
